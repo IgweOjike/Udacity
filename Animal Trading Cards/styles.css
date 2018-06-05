@@ -18,3 +18,15 @@ ul {
     list-style: none;
     padding: 0;
 }
+
+.first-border {
+    border-width: 1px;
+    border-style: ridge;
+    border-color: silver;
+}
+
+.second-border {
+    border-width: 1px;
+    border-style: ridge;
+    border-color: silver;
+}
