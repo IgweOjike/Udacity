@@ -29,6 +29,7 @@ ul {
     border-style: ridge;
     border-color: silver;
     padding: 0;
+    box-shadow: 10px 10px 5px 0px rgba(230, 230, 230, 1);
 }
 
 .second-border {
@@ -37,4 +38,8 @@ ul {
     border-color: silver;
     margin: 20px;
     padding: 10px;
+}
+
+body {
+    margin: 25px;
 }
