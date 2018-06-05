@@ -23,6 +23,8 @@ ul {
     border-width: 1px;
     border-style: ridge;
     border-color: silver;
+    padding: 0;
+    text-align: center;
 }
 
 .second-border {
