@@ -29,4 +29,6 @@ ul {
     border-width: 1px;
     border-style: ridge;
     border-color: silver;
+    margin: 20px;
+    padding: 10px;
 }
